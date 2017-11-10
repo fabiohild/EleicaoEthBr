@@ -19,3 +19,5 @@ O blockchain é a ferramenta ideal para substituir o processo acima, possibilita
 - Criação de uma dapp para uso do contrato em html/javascript
 - Criação de uma dapp para uso do contrato em Meteor js
 - continua...
+
+GNU General Public License v3.0
